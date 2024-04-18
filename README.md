@@ -24,7 +24,7 @@ NLP : Xabarlarning mazmuni va metama'lumotlariga ko'ra elektron pochta xabarlari
    git clone https://github.com/IlhomJabborov/Spam-Email-Detection.git
    ```
    <br>
-2. Text editor(Tavsiya : Visual Studio Code) yoki online servislar(Tavsiya : Google Colab) orqali .ipynb formatidagi faylni oching.Datasetni berilgan link dan foydalanib kaggledan yuklab oling.Kodlarni yuriting.
+2. Code editor(Tavsiya : Visual Studio Code) yoki online servislar(Tavsiya : Google Colab) orqali .ipynb formatidagi faylni oching.Datasetni berilgan link dan foydalanib kaggledan yuklab oling.Kodlarni yuriting.
 
 
 ### Modelni sinab ko'ring va Zavqlaning !
